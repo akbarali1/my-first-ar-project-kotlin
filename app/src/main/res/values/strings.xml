@@ -15,6 +15,7 @@
    limitations under the License.
 -->
 <resources>
+
   <string translatable="false" name="app_name">AR Kotlin</string>
   <string translatable="false" name="depth_use_explanation">Qoʻllab-quvvatlanadigan qurilmalarda chuqurlik yoqilgan boʻlsa, virtual ob\'ektlar haqiqiy dunyo bilan aralashib, atrof-muhitga moslashadi</string>
   <string translatable="false" name="button_text_enable_depth">Yoqish</string>
