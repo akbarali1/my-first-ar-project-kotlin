@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Copyright 2021 Google LLC
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+<resources>
+  <string translatable="false" name="app_name">AR Kotlin</string>
+  <string translatable="false" name="depth_use_explanation">Qoʻllab-quvvatlanadigan qurilmalarda chuqurlik yoqilgan boʻlsa, virtual ob\'ektlar haqiqiy dunyo bilan aralashib, atrof-muhitga moslashadi</string>
+  <string translatable="false" name="button_text_enable_depth">Yoqish</string>
+  <string translatable="false" name="button_text_disable_depth">Oʻchirish</string>
+  <string translatable="false" name="options_title_with_depth">Qurilmangiz chuqurlikni qo\'llab-quvvatlaydi</string>
+  <string translatable="false" name="options_title_without_depth">Qurilmangiz chuqurlikni qo‘llab-quvvatlamaydi</string>
+  <string translatable="false" name="done">Bajarildi</string>
+  <string-array translatable="false" name="depth_options_array">
+    <item>Chuqurlikni yoqish</item>
+    <item>Chuqurlik xaritasini ko\'rsatish</item>
+  </string-array>
+  <string translatable="false" name="options_title_instant_placement">Tezkor joylashtirish imkoniyatlari</string>
+  <string-array translatable="false" name="instant_placement_options_array">
+    <item>Tezkor joylashtirishni yoqing</item>
+  </string-array>
+
+  <string translatable="false" name="searching_planes">Yuza skanerlanmoqda.....</string>
+  <string translatable="false" name="waiting_taps">Ob\'ektni joylashtirish uchun yuzaga teging.</string>
+
+</resources>
